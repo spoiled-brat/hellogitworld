@@ -1,6 +1,6 @@
-Steve's Favorite Sport
+# Steve's Favorite Sport
 
-Football
+**Football**
 NY Giants
 Giants Stadium
 Eli Manning
