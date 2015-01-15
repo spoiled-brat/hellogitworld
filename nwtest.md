@@ -1,4 +1,4 @@
-# Restaurants in Scripps Ranch
+# Restaurants in Scripps Ranch (San Diego, CA)
 
 - Chilis
 - **Yannis Bistro** my favorite
