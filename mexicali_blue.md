@@ -1,3 +1,4 @@
 ##TODAYS MENU
 1. Fish Taco
-2. CHicken Taco - unavailable
+2. n/a
+3. Beef Taco
