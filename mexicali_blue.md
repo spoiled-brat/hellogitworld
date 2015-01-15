@@ -1,6 +1,3 @@
 
 ##TODAYS MENU
--Fish Taco
--n/a
--Beef Taco
-
+We are closed for holidays.
