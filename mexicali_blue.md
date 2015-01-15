@@ -1,6 +1,6 @@
 
 ##TODAYS MENU
--Fish Taco
--n/a
--Beef Taco
+1. Fish Taco
+2. poisonus
+3. Beef Taco
 
